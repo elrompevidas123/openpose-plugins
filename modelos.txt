@@ -3,9 +3,9 @@ anythingv3.vae.pt, https://huggingface.co/nolanaatama/av3/resolve/main/av3.vae.p
 Anything_v45.ckpt, https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.5-pruned.ckpt
 anythingv4.5.vae.pt, https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.0.vae.pt
 Stable_Diffusion_15.ckpt, https://huggingface.co/nolanaatama/sd15/resolve/main/model.ckpt
-
+vae
 Chilloutmix-Ni-pruned-fp32-fix.safetensors, https://civitai.com/api/download/models/11745
-
+vae
 AbyssOrangeMix3_AOM3A1B_orangemixs.safetensors, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1B_orangemixs.safetensors
 orangemix.vae.pt, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/VAEs/orangemix.vae.pt
 AbyssOrangeMix2_sfw.safetensors, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/AbyssOrangeMix2_sfw.safetensors
@@ -15,6 +15,6 @@ orangemix.vae.pt, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/
 AbyssOrangeMix2_hard.safetensors, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/AbyssOrangeMix2_hard.safetensors
 orangemix.vae.pt, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/VAEs/orangemix.vae.pt
 Basil_mix_fixed.safetensors, https://huggingface.co/nuigurumi/basil_mix/resolve/main/Basil_mix_fixed.safetensors
-
+vae
 pastelmix-fp16.safetensors, https://huggingface.co/andite/pastel-mix/resolve/main/pastelmix-fp16.safetensors
 diffusion_pytorch_model.safetensors, https://huggingface.co/andite/pastel-mix/resolve/main/vae/diffusion_pytorch_model.safetensors
