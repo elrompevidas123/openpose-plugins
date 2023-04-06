@@ -1,3 +1,5 @@
+mdjrny-v4.safetensors, https://huggingface.co/prompthero/openjourney/resolve/main/mdjrny-v4.safetensors
+diffusion_pytorch_model.safetensors, https://huggingface.co/prompthero/openjourney/resolve/main/vae/diffusion_pytorch_model.safetensors
 Anything_v3.ckpt, https://huggingface.co/nolanaatama/av3/resolve/main/av3.ckpt
 anythingv3.vae.pt, https://huggingface.co/nolanaatama/av3/resolve/main/av3.vae.pt
 Anything_v45.ckpt, https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.5-pruned.ckpt
