@@ -1,0 +1,190 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.440
+Chicos, tenemos un video aquí en el canal que muestro cómo identificar aplicaciones espía, posible
+
+2
+00:00:09.440 --> 00:00:14.240
+spiers en tu Android, y algunas personas tenían dudas sobre algunos
+
+3
+00:00:14.240 --> 00:00:18.480
+aplicaciones que aparecen en la lista de administradores del sistema.
+
+4
+00:00:18.480 --> 00:00:23.960
+En Android tiene una configuración que algunas apps piden permiso para
+
+5
+00:00:23.960 --> 00:00:28.020
+convertirse en administrador del sistema para tener funciones y permisos especiales
+
+6
+00:00:28.980 --> 00:00:35.780
+y una de estas aplicaciones es Screen Look Service. Esta aplicación aparece como administrador del dispositivo,
+
+7
+00:00:35.780 --> 00:00:41.260
+pero si lo deshabilita cuando reinicia el dispositivo, regresa nuevamente y algunas personas estaban
+
+8
+00:00:41.260 --> 00:00:46.780
+tiene miedo de ser una aplicación maliciosa, una especie de aplicación espía que sigue monitoreando
+
+9
+00:00:46.780 --> 00:00:52.780
+tu celular Hablaremos en este video para usted qué es este Servicio de apariencia de pantalla y por qué
+
+10
+00:00:52.780 --> 00:00:59.980
+no puede deshabilitarlo y por qué no aparece como una aplicación de referencia en la lista
+
+11
+00:00:59.980 --> 00:01:06.380
+para que puedas desinstalarlo. Deja el like en el video, suscríbete y activa las notificaciones.
+
+12
+00:01:06.380 --> 00:01:09.980
+Así que chicos, para que entiendan mejor de lo que estoy hablando, tal vez no
+
+13
+00:01:09.980 --> 00:01:18.060
+Seguí este video que hice relacionado con aplicaciones de espionaje y aplicaciones de administrador del sistema,
+
+14
+00:01:18.460 --> 00:01:24.060
+hay un video en la tarjeta de arriba, debajo de la memoria hay un enlace para que veas este video y
+
+15
+00:01:24.060 --> 00:01:29.420
+saber de lo que estamos hablando en este video actual. Aquí en la configuración, si buscas
+
+16
+00:01:29.420 --> 00:01:36.620
+configuración de seguridad, en mi caso con Android 10 aquí, está en la lista biométrica de seguridad
+
+17
+00:01:36.620 --> 00:01:42.020
+ahí abajo, donde están otras configuraciones de seguridad, buscaré aplicaciones de administración
+
+18
+00:01:42.020 --> 00:01:47.580
+del dispositivo En algunos celulares buscas la configuración del administrador del dispositivo,
+
+19
+00:01:47.580 --> 00:01:52.180
+También te mostraré esta lista de aplicaciones aquí. Algunas personas no tienen ninguna duda en relación con Google Pay,
+
+20
+00:01:52.180 --> 00:01:57.180
+Google Pay es un servicio de pago de Google Pay, como también lo tiene en Samsung Pay, son
+
+21
+00:01:57.180 --> 00:02:01.820
+aplicaciones seguras que no necesitas deshabilitar el administrador del dispositivo, en mi caso es
+
+22
+00:02:01.820 --> 00:02:07.820
+deshabilitado aquí porque no lo uso, pero no hay problema. Y en el mio de aqui chicos no tengo esto
+
+23
+00:02:07.820 --> 00:02:13.140
+app, el Screen Look Service, pero una persona comentó aquí en el último video que subimos al canal
+
+24
+00:02:13.260 --> 00:02:20.300
+informar este problema, no poder identificar qué es esta aplicación, si es segura o no, y es por eso que
+
+25
+00:02:20.300 --> 00:02:24.700
+decidi hacer este video, pero no lo tengo aqui en mi smartphone, dejare la imagen en la pantalla ahi
+
+26
+00:02:24.700 --> 00:02:32.300
+para que visualicen cómo es esta aplicación y de qué se trata esta aplicación, muchachos. como el propio nombre
+
+27
+00:02:32.300 --> 00:02:38.300
+ya lo dice, Screen Look Service es una aplicación responsable del bloqueo de pantalla de su
+
+28
+00:02:38.300 --> 00:02:42.860
+teléfono inteligente, el servicio allí es donde define una contraseña, un patrón en su pantalla,
+
+29
+00:02:42.980 --> 00:02:51.020
+simplemente esta aplicación es responsable de eso, y es una aplicación administrada, es parte de Google Play
+
+30
+00:02:51.020 --> 00:02:58.180
+Aplicación de servicio, que es una aplicación nativa de Android, esta es una aplicación segura, es parte de Android,
+
+31
+00:02:58.180 --> 00:03:05.620
+Servicio Google Play, sin él, muchas aplicaciones no funcionarán en su teléfono, por eso
+
+32
+00:03:05.620 --> 00:03:12.180
+deshabilitarlo, aquí tienes la opción de deshabilitarlo, en mi caso aquí encuentro mi dispositivo, tienes
+
+33
+00:03:12.180 --> 00:03:18.620
+ninguna característica en la aplicación Screen Look Service, si la deshabilita, la deshabilitará aquí, pero cuando
+
+34
+00:03:18.620 --> 00:03:25.940
+reinicias el dispositivo, se activará de nuevo, por lo que no es una aplicación maliciosa, no es una aplicación que
+
+35
+00:03:25.940 --> 00:03:31.260
+traerte un problema, es simplemente parte de Google Play Service, que ya es parte de Android, es
+
+36
+00:03:31.260 --> 00:03:37.060
+es una app de sistema, así que no hay problema, puedes dejarla activada sin ningún problema, es
+
+37
+00:03:37.060 --> 00:03:43.420
+algunos dispositivos aparecen y otros no, estamos investigando el tema, en este foro aquí puedes
+
+38
+00:03:43.420 --> 00:03:48.380
+encuentre información sobre por qué aparece esta aplicación y por qué es parte de Google Play
+
+39
+00:03:48.380 --> 00:03:52.660
+Servicio, no tenemos información hasta el momento, por qué esta aplicación aparece en algunos
+
+40
+00:03:52.660 --> 00:03:58.740
+teléfonos y otros no, y cuál es la necesidad de que aparezca aquí en la lista de dispositivos administrados,
+
+41
+00:03:58.740 --> 00:04:04.140
+ya que si es una app de sistema no necesitaria estar aqui consultando con el administrador,
+
+42
+00:04:04.220 --> 00:04:10.500
+pero puede estar seguro de que esta aplicación no causará ningún problema en su teléfono celular,
+
+43
+00:04:10.500 --> 00:04:18.460
+ser parte de las aplicaciones nativas de Android, así que chicos, este fue el video de hoy para tomar su
+
+44
+00:04:18.460 --> 00:04:24.300
+dudar y aliviar a muchas personas que están con esta aplicación en los administradores de dispositivos y, a veces
+
+45
+00:04:24.300 --> 00:04:29.900
+preocupate, asi que si te gusto deja tu like aqui, deja tu comentario ahi tambien, diciendo si
+
+46
+00:04:29.900 --> 00:04:34.860
+te gusto este video o si nunca has escuchado de el deja tu comentario, tu opinion,
+
+47
+00:04:34.860 --> 00:04:41.420
+que es importante para nosotros, y suscríbete al canal para seguir los próximos videos, un fuerte abrazo, nos vemos!
+
