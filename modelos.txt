@@ -25,3 +25,4 @@ diffusion_pytorch_model.safetensors, https://huggingface.co/stabilityai/stable-d
 7th_anime_3.1_A.ckpt, https://huggingface.co/syaimu/7th_test/resolve/main/7th_anime_3.1_A.ckpt
 %no vae
 Nostalgia-mix.safetensors, https://civitai.com/api/download/models/19849
+%no vae
