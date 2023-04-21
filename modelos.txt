@@ -20,3 +20,5 @@ Basil_mix_fixed.safetensors, https://huggingface.co/nuigurumi/basil_mix/resolve/
 %no vae
 pastelmix-fp16.safetensors, https://huggingface.co/andite/pastel-mix/resolve/main/pastelmix-fp16.safetensors
 diffusion_pytorch_model.safetensors, https://huggingface.co/andite/pastel-mix/resolve/main/vae/diffusion_pytorch_model.safetensors
+v2-1_768-ema-pruned.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.safetensors
+diffusion_pytorch_model.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/vae/diffusion_pytorch_model.safetensors
