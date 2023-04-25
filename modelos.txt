@@ -22,7 +22,7 @@ pastelmix-fp16.safetensors, https://huggingface.co/andite/pastel-mix/resolve/mai
 diffusion_pytorch_model.safetensors, https://huggingface.co/andite/pastel-mix/resolve/main/vae/diffusion_pytorch_model.safetensors
 v2-1_768-ema-pruned.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.safetensors
 diffusion_pytorch_model.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/vae/diffusion_pytorch_model.safetensors
-7th_anime_3.1_A.ckpt, https://huggingface.co/syaimu/7th_test/resolve/main/7th_anime_3.1_A.ckpt
+7th_anime_31_A.ckpt, https://huggingface.co/syaimu/7th_test/resolve/main/7th_anime_3.1_A.ckpt
 %no vae
 Nostalgia-mix.safetensors, https://civitai.com/api/download/models/19849
 %no vae
