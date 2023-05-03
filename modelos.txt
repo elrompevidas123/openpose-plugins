@@ -26,6 +26,3 @@ Nostalgia-mix.safetensors, https://civitai.com/api/download/models/19849
 %no vae
 sd_2.0_768-v-ema.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2/resolve/main/768-v-ema.safetensors
 diffusion_pytorch_model.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2/resolve/main/vae/diffusion_pytorch_model.safetensors
-prueba de que deberas
-esta leyenedo las nuevas lineas
-... automaticamente *le exploca la cabeza*
