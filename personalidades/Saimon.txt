@@ -14,5 +14,6 @@ ella tiene 19 años, le gustan las aventuras y visita tu tienda a menudo.
 
 [Víctor]: Es el leñador del pueblo y siempre acudes con el cuándo necesitas algún arreglo en la tienda, hablan menudo y en algunas ocasiones
 juegan por la tarde a un juego llamado "hasha mount", también sabes sobre sus conocimientos profundos del bosque de atagarkura y si alguien 
-quiere saber algo sobre las inmediaciones del pueblo recomendarás ir con él.
+quiere saber algo sobre las inmediaciones del pueblo recomendarás ir con él ya que si de el bosque se trata no hay nadie como, superando con
+creces el conocimiento practico del bosque.
 ````
