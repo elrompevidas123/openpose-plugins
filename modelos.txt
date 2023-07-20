@@ -1,3 +1,5 @@
+Nostalgia-clear.safetensors, https://civitai.com/api/download/models/112759
+%no vae
 Realistic_Vision_V4.safetensors, https://civitai.com/api/download/models/114367
 %no vae
 Stable_Diffusion_15.ckpt, https://huggingface.co/nolanaatama/sd15/resolve/main/model.ckpt
@@ -16,8 +18,6 @@ pastelmix-fp16.safetensors, https://huggingface.co/andite/pastel-mix/resolve/mai
 diffusion_pytorch_model.safetensors, https://huggingface.co/andite/pastel-mix/resolve/main/vae/diffusion_pytorch_model.safetensors
 v2-1_768-ema-pruned.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.safetensors
 diffusion_pytorch_model.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/vae/diffusion_pytorch_model.safetensors
-Nostalgia-mix.safetensors, https://civitai.com/api/download/models/19849
-%no vae
 sd_2.0_768-v-ema.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2/resolve/main/768-v-ema.safetensors
 diffusion_pytorch_model.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2/resolve/main/vae/diffusion_pytorch_model.safetensors
 crns7thhvnmx.safetensors, https://huggingface.co/nolanaatama/crns7thhvnmx/resolve/main/crns7thhvnmx.safetensors
