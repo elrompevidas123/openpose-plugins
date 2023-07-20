@@ -1,12 +1,6 @@
-openjourney.safetensors, https://huggingface.co/prompthero/openjourney/resolve/main/mdjrny-v4.safetensors
-diffusion_pytorch_model.safetensors, https://huggingface.co/prompthero/openjourney/resolve/main/vae/diffusion_pytorch_model.safetensors
-Anything_v3.ckpt, https://huggingface.co/nolanaatama/av3/resolve/main/av3.ckpt
-anythingv3.vae.pt, https://huggingface.co/nolanaatama/av3/resolve/main/av3.vae.pt
-Anything_v45.ckpt, https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.5-pruned.ckpt
-anythingv4.5.vae.pt, https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.0.vae.pt
-Stable_Diffusion_15.ckpt, https://huggingface.co/nolanaatama/sd15/resolve/main/model.ckpt
+Realistic_Vision_V4.safetensors, https://civitai.com/api/download/models/114367
 %no vae
-Chilloutmix-Ni-pruned-fp32-fix.safetensors, https://civitai.com/api/download/models/11745
+Stable_Diffusion_15.ckpt, https://huggingface.co/nolanaatama/sd15/resolve/main/model.ckpt
 %no vae
 AbyssOrangeMix3_AOM3A1B_orangemixs.safetensors, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1B_orangemixs.safetensors
 orangemix.vae.pt, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/VAEs/orangemix.vae.pt
