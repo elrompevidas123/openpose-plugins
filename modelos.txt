@@ -1,3 +1,5 @@
+Photon.safetensors, https://huggingface.co/nolanaatama/phtn/resolve/main/phtn.safetensors
+%no vae
 Nostalgia-clear.safetensors, https://civitai.com/api/download/models/112759
 %no vae
 Realistic_Vision_V4.safetensors, https://civitai.com/api/download/models/114367
