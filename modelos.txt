@@ -3,7 +3,7 @@ Photon.safetensors, https://huggingface.co/nolanaatama/phtn/resolve/main/phtn.sa
 Nostalgia-clear.safetensors, https://civitai.com/api/download/models/112759
 %no vae
 Realistic_Vision_V4.safetensors, https://huggingface.co/datasets/higart/My_models-Pre/resolve/main/Realistic%20Vision%204.0/realisticVisionV40_v40VAE.safetensors
-diffusion_pytorch_model.bin, https://huggingface.co/stablediffusionapi/realistic-vision-v40/resolve/main/vae/diffusion_pytorch_model.bin
+diffusion_pytorch_model.bin, https://huggingface.co/datasets/higart/My_models-Pre/resolve/main/Realistic%20Vision%204.0/diffusion_pytorch_model.bin
 Stable_Diffusion_15.ckpt, https://huggingface.co/nolanaatama/sd15/resolve/main/model.ckpt
 %no vae
 AbyssOrangeMix3_AOM3A1B_orangemixs.safetensors, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1B_orangemixs.safetensors
