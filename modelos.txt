@@ -4,8 +4,6 @@ Nostalgia-clear.safetensors, https://huggingface.co/datasets/higart/My_models-Pr
 %no vae
 Realistic_Vision_V4.safetensors, https://huggingface.co/datasets/higart/My_models-Pre/resolve/main/Realistic%20Vision%204.0/realisticVisionV40_v40VAE.safetensors
 diffusion_pytorch_model.bin, https://huggingface.co/datasets/higart/My_models-Pre/resolve/main/Realistic%20Vision%204.0/diffusion_pytorch_model.bin
-Stable_Diffusion_15.ckpt, https://huggingface.co/nolanaatama/sd15/resolve/main/model.ckpt
-%no vae
 AbyssOrangeMix3_AOM3A1B_orangemixs.safetensors, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1B_orangemixs.safetensors
 orangemix.vae.pt, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/VAEs/orangemix.vae.pt
 AbyssOrangeMix2_sfw.safetensors, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/AbyssOrangeMix2_sfw.safetensors
