@@ -14,8 +14,6 @@ AbyssOrangeMix2_hard.safetensors, https://huggingface.co/WarriorMama777/OrangeMi
 orangemix.vae.pt, https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/VAEs/orangemix.vae.pt
 Basil_mix_fixed.safetensors, https://huggingface.co/nuigurumi/basil_mix/resolve/main/Basil_mix_fixed.safetensors
 %no vae
-pastelmix-fp16.safetensors, https://huggingface.co/andite/pastel-mix/resolve/main/pastelmix-fp16.safetensors
-diffusion_pytorch_model.safetensors, https://huggingface.co/andite/pastel-mix/resolve/main/vae/diffusion_pytorch_model.safetensors
 v2-1_768-ema-pruned.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.safetensors
 diffusion_pytorch_model.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/vae/diffusion_pytorch_model.safetensors
 sd_2.0_768-v-ema.safetensors, https://huggingface.co/stabilityai/stable-diffusion-2/resolve/main/768-v-ema.safetensors
