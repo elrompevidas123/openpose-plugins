@@ -1,3 +1,5 @@
+SDXL_10.safetensors, https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
+diffusion_pytorch_model_fp16.safetensors, https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/vae/diffusion_pytorch_model.fp16.safetensors
 Photon.safetensors, https://huggingface.co/nolanaatama/phtn/resolve/main/phtn.safetensors
 %no vae
 Nostalgia-clear.safetensors, https://huggingface.co/datasets/higart/My_models-Pre/resolve/main/Nostalgia%20clear/nostalgiaClear_nostalgiaV2.safetensors
